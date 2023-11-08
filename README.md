@@ -1,7 +1,6 @@
 # Term2_DV200_JarrydCarelse_221267
 Term 2 readme file with demonstration video
-# Term2_DV200_JarrydCarelse_221267
-Term 2 Project readMe file with Demo Video
+
 ![Alt text](Untitled.png)
 <h5 align="center" style="padding:0;margin:0;">Jarryd Carelse</h5>
 <h5 align="center" style="padding:0;margin:0;">221267</h5>
@@ -105,12 +104,12 @@ Move the project folder to your XAMPP "htdocs" directory (e.g., C:\xampp\htdocs\
 Open a web browser and visit http://localhost/[YourProjectName] (e.g., http://localhost/pealers) to view and use the Pealers website.
   
 <!-- FEATURES AND FUNCTIONALITY-->
-![Alt text](compare.jpg
+![Alt text](appointment.jpg
 )
 ### The section where one can select two cars and compare them side by side.
 
 
-![Alt text](chart.jpg
+![Alt text](Login.jpg
 )
 ### Using Chart.js you can select a car you would like to view information on and it gives you the information in a form of a line chart.
 
@@ -157,25 +156,12 @@ Displayed patient information and appointment details for efficient patient mana
 Styling web applications to achieve a polished and user-friendly interface can be challenging. You may have struggled with designing and implementing consistent and visually appealing styles across the entire application. This might include challenges related to layout design, color schemes, responsive design for various screen sizes, and ensuring that your styles work as expected in different web browsers.
 Addressing this challenge may involve learning and using CSS best practices, understanding CSS frameworks (such as Bootstrap), and spending time fine-tuning the styling to achieve the desired look and feel for your website. It's common for developers to iterate through multiple design revisions and make adjustments to achieve a visually appealing and user-friendly design.
 
-<!-- MOCKUPS -->
-## Final Outcome
-
-### Mockups
-![Alt text](home.jpg
-)
-<br>
-![Alt text](compare.jpg
-)
-<br>
-![Alt text](chart.jpg
-)
-
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
 
 To see a run through of the application, click below:
 
-[View Demonstration](https://drive.google.com/file/d/1NGFQRjZjbKTZfkI7rD953dGHe0_uxuZx/view?usp=sharing 
+[View Demonstration](https://drive.google.com/file/d/1saDZU_ALigJZmD6PE8udiMh07uW-f1Al/view?usp=sharing
 )
 
 <!-- AUTHORS -->
