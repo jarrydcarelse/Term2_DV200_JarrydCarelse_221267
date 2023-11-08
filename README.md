@@ -104,14 +104,14 @@ Move the project folder to your XAMPP "htdocs" directory (e.g., C:\xampp\htdocs\
 Open a web browser and visit http://localhost/[YourProjectName] (e.g., http://localhost/pealers) to view and use the Pealers website.
   
 <!-- FEATURES AND FUNCTIONALITY-->
-![Alt text](appointment.jpg
+![Alt text](appointment.png
 )
-### The section where one can select two cars and compare them side by side.
 
 
-![Alt text](Login.jpg
+
+![Alt text](Login.png
 )
-### Using Chart.js you can select a car you would like to view information on and it gives you the information in a form of a line chart.
+
 
 
 
