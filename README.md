@@ -104,10 +104,10 @@ Move the project folder to your XAMPP "htdocs" directory (e.g., C:\xampp\htdocs\
 Open a web browser and visit http://localhost/[YourProjectName] (e.g., http://localhost/pealers) to view and use the Pealers website.
   
 <!-- FEATURES AND FUNCTIONALITY-->
-![Alt text](appointment.png
+![Alt text](appointment
 )
 
-
+<br>
 
 ![Alt text](Login.png
 )
